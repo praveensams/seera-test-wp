@@ -1,6 +1,6 @@
 provider "aws" {
   region     = "eu-west-2"
-  access_key = "AKIAXAQFCUBKJHPDAJWM"
-  secret_key = "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"
+  access_key = "Hided_due_to_github_scan"
+  secret_key = "Hided_due_to_github_scan"
    version = "~> 2.0"
 }
